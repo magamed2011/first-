@@ -1,0 +1,96 @@
+
+body{
+    background-attachment: fixed;
+    background-image: url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg?w=900&t=st=1672817362~exp=1672817962~hmac=36e7b38daa4f718fcdcb651a45eeb1b293abe7095ea09ae51a4e05200295a12e);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+img{
+    width: 500px;
+  
+}
+
+.nearimg{
+    position: relative;
+    left:600px;
+    bottom: 500px;
+    font-size: 30px;
+    color: rgb(214, 143, 11);
+    
+}
+
+.img2{
+    position: relative;
+    bottom: 420px;
+    font-size: 30px;
+    color: rgba(160, 18, 255, 0.692);
+}
+
+.img3{
+    position: relative;
+    bottom: 400px;
+}
+
+h1{
+    color: chocolate;
+}
+
+h2{
+    color: brown;
+}
+
+.oho{
+    position: relative;
+    bottom: 400px;
+}
+
+.frut{
+    position: relative;
+    bottom: 720px;
+    font-size: 30px;
+    color: rgba(180, 20, 220, 0.534);
+    width: 800px;
+    left: 550px;
+}
+
+.tower{
+    position: relative;
+    bottom: 750px;
+}
+
+.tower2{
+    position: relative;
+    bottom: 1250px;
+    color: darkgray;
+    width: 600px;
+    left: 550px;
+    font-size: 25px;
+}
+
+.roblox{
+    color: blueviolet;
+}
+
+.oby{
+    position: relative;
+    color: darkblue;
+    font-size: 25px;
+    bottom: 1250px;
+}
+
+.jump{
+    position: relative;
+    bottom: 1250px;
+}
+
+.wiki{
+    position: relative;
+    bottom: 1500px;
+    font-size: 25px;
+    color: cornflowerblue;
+    width: 600px;
+    left: 550px;
+
+}
